@@ -1,7 +1,7 @@
 
 <dir>
         <name>Catch Up TV</name>
-        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazzatv.xml</link>
+        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/tv.xml</link>
 
 </dir>
 
@@ -12,7 +12,7 @@
 
 <dir>
         <name>Horror</name>
-        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazzahorror-subtomain.xml</link>
+        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/horror.xml</link>
  </dir>
 
 <dir>
@@ -27,7 +27,7 @@
 
 <dir>
         <name>Sci-fi</name>
-        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazza%20scifi-subtomain.xml</link>
+        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/sci.xml</link>
 </dir>
 
 <dir>

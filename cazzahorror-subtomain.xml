@@ -6,6 +6,11 @@
 </dir>
 
 <dir>
+<title>Cazza Horror Tv Shows</title>
+<tmdb>list/46204</tmdb>
+</dir>        
+        
+<dir>
         <name>Horror Collections</name>
         <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazzahorrorcollection.xml</link>
 

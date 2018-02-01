@@ -44,6 +44,11 @@
 </dir>
 
 <dir>
-  <title>Griff True Movies</title>
-  <trakt>https://api.trakt.tv/users/documentaryrepo/lists/true-movies/items</trakt>
+  <title>Search TMDB</title>
+  <tmdb>search</tmdb>
+</dir>
+
+<dir>
+  <title>Search Trakt</title>
+  <trakt>search</trakt>
 </dir>

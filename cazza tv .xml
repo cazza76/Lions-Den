@@ -51,4 +51,9 @@
 <dir>
   <title>Search Trakt</title>
   <trakt>search</trakt>
-</dir>  
+</dir> 
+
+<dir>
+  <title>networks</title>
+  <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/networks.xml</link>
+</dir>

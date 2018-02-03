@@ -1,3 +1,10 @@
+
+<dir>
+  <name>Movie Genres</name>
+  <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/movie%20genres%20sbtogenres.xml</link>
+  
+</dir>
+
 <dir>
   <title>Action</title>
   <tmdb>genre/movies/28</tmdb>

@@ -11,6 +11,12 @@
 </dir>
 
 <dir>
+        <name>Movies & Tv Genres</name>
+        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/genres%20sbtomain.xml
+         
+</dir>
+        
+<dir>
 <title>Crime and Gangster</title>
 <tmdb>list/44688</tmdb>
 </dir>

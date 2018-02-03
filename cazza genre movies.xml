@@ -1,9 +1,9 @@
 
 <dir>
        <name>Movie Genre</name>
-	   <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/genre_tv.xml</link>
-	    <animated_thumbnail></animated_thumbnail>
-		<thumbnail></thumbnail>
-		<animated_fanart></animated_fanart>
-		<fanart></fanart>
+       <link>https://raw.githubusercontent.com/graciegreen1122/test1/master/genre_tv.xml</link>
+       <animated_thumbnail></animated_thumbnail>
+       <thumbnail></thumbnail>
+       <animated_fanart></animated_fanart>
+       <fanart></fanart>
 </dir>

@@ -1,0 +1,21 @@
+<dir>
+<title>Sci-fi</title>
+<tmdb>list/45236/</tmdb>
+</dir>
+
+<dir>
+<title>Sci-fi</title>
+<tmdb>list/45240</tmdb>
+</dir>
+
+<dir>
+<title>Sci-fi</title>
+<tmdb>list/45238</tmdb>
+</dir>
+
+<dir>
+        <name>Sci-fi Collections</name>
+        <link>https://raw.githubusercontent.com/graciegreen1122/givename/master/coll.xml</link>
+
+</dir>
+

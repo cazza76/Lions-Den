@@ -17,8 +17,8 @@
 </dir>
         
 <dir>
-        <name>Kids Boxsets</name>
-        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/kids_boxset.xml</link>
+      <name>Kids Boxsets</name>
+      <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/kids_boxset.xml</link>
           
 </dir>        
         
@@ -28,13 +28,13 @@
 </dir>
 
 <dir>
-        <name>Horror</name>
-        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazzahorror-subtomain.xml</link>
+      <name>Horror</name>
+      <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazzahorror-subtomain.xml</link>
  </dir>
 
 <dir>
-        <name>Screeners and New Release</name>
-        <link>https://raw.githubusercontent.com/graciegreen1122/alice/master/screeners.xml</link>
+      <name>Screeners and New Release</name>
+      <link>https://raw.githubusercontent.com/graciegreen1122/alice/master/screeners.xml</link>
 </dir>        
 
 <dir>
@@ -48,8 +48,8 @@
 <dir>        
 
 <dir>
-        <name>Sci-fi</name>
-        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazza%20scifi-subtomain.xml</link>
+      <name>Sci-fi</name>
+      <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazza%20scifi-subtomain.xml</link>
 </dir>
 
 <dir>

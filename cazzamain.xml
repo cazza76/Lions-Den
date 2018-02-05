@@ -33,15 +33,9 @@
  </dir>
 
 <dir>
-        <name>[COLORred]Screeners and DVD Rips[/COLOR]</name>
+        <name>Screeners and New Release</name>
         <link>https://raw.githubusercontent.com/graciegreen1122/alice/master/screeners.xml</link>
-        
 </dir>        
-
-<dir>
-<name>New Release</name>
-<link>https://raw.githubusercontent.com/graciegreen1122/alice/master/screeners.xml</link>
-</dir>
 
 <dir>
     <title>Paranormal</title>
@@ -55,7 +49,7 @@
 
 <dir>
         <name>Sci-fi</name>
-        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/scify%20main.xmll</link>
+        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazza%20scifi-subtomain.xml</link>
 </dir>
 
 <dir>

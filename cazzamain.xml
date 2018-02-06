@@ -50,8 +50,13 @@
 <dir>
     <title>Secrets Of The Universe</title>
     <tmdb>list/46894</tmdb>
-<dir>        
+</dir>
 
+<dir>
+        <title>The Greatest Civilisations</title>
+        <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/the%20great%20civiliations.xml</link>
+</dir>
+       
 <dir>
 <title>War Films</title>
 <tmdb>list/44686</tmdb>

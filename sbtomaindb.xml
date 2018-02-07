@@ -1,5 +1,11 @@
 
 <dir>
+     <name>Great Dcumentaries</name>
+     <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/prcticesbtomain.xml</link>
+	
+</dir>
+
+<dir>
     <titleSecrets Of The Universe</title>
     <tmddb>list/46894<tmdb>
 </dir>

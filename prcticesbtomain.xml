@@ -11,3 +11,7 @@
     <title>Great Civilisations</title>
 	<tmdb>list/46895</tmdb>	
 </dir>
+	
+<dir>
+	<name>Great Documentaries</name>
+	<link> https://raw.githubusercontent.com/cazza76/Lions-Den/master/prcticesbtomain.xml</link>

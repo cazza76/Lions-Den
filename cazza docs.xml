@@ -1,7 +1,9 @@
 
 <dir>
     <name>Great Dcumentaries</name>
-    <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazza%20docs.xml
+    <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/prcticesbtomain.xml</link>
+</dir>
+
 <dir>
     <title>Secrets Of The Universe</title>
 	<tmddb>list/46894<tmdb>
@@ -14,6 +16,6 @@
 
 <dir>
        <name>Great Documentaries</name>
-       <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/cazza%20docs.xml</link>
+       <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/prcticesbtomain.xml</link>
 	   
 </dir>

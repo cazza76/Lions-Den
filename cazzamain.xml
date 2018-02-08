@@ -48,8 +48,9 @@
 </dir>
 
 <dir>
-    <title>Great Documetaries</title>
-    <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/docs%20xml.xml</link>
+        <name>Great Documetaries</name>
+       <link>https://raw.githubusercontent.com/cazza76/Lions-Den/master/docs%20xml.xml</link>
+        
 </dir>
 
 <dir>
